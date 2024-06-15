@@ -1,0 +1,14 @@
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\implementandoQuickSort\bin\Debug\net8.0\implementandoQuickSort.exe
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\implementandoQuickSort\bin\Debug\net8.0\implementandoQuickSort.deps.json
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\implementandoQuickSort\bin\Debug\net8.0\implementandoQuickSort.runtimeconfig.json
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\implementandoQuickSort\bin\Debug\net8.0\implementandoQuickSort.dll
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\implementandoQuickSort\bin\Debug\net8.0\implementandoQuickSort.pdb
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\implementandoQuickSort\obj\Debug\net8.0\implementandoQuickSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\implementandoQuickSort\obj\Debug\net8.0\implementandoQuickSort.AssemblyInfoInputs.cache
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\implementandoQuickSort\obj\Debug\net8.0\implementandoQuickSort.AssemblyInfo.cs
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\implementandoQuickSort\obj\Debug\net8.0\implementandoQuickSort.csproj.CoreCompileInputs.cache
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\implementandoQuickSort\obj\Debug\net8.0\implementandoQuickSort.dll
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\implementandoQuickSort\obj\Debug\net8.0\refint\implementandoQuickSort.dll
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\implementandoQuickSort\obj\Debug\net8.0\implementandoQuickSort.pdb
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\implementandoQuickSort\obj\Debug\net8.0\implementandoQuickSort.genruntimeconfig.cache
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\implementandoQuickSort\obj\Debug\net8.0\ref\implementandoQuickSort.dll
