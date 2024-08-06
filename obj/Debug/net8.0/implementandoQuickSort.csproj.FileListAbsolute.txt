@@ -12,3 +12,4 @@ C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\implementandoQuickSort\obj\Debu
 C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\implementandoQuickSort\obj\Debug\net8.0\implementandoQuickSort.pdb
 C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\implementandoQuickSort\obj\Debug\net8.0\implementandoQuickSort.genruntimeconfig.cache
 C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\implementandoQuickSort\obj\Debug\net8.0\ref\implementandoQuickSort.dll
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\implementandoQuickSort\obj\Debug\net8.0\implementandoQuickSort.sourcelink.json
